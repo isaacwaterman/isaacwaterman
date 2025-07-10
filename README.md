@@ -1,9 +1,9 @@
 # Hey there! 👋 I'm Isaac
 
 ## What I'm up to
-🎓 Natural Resources/ Civil Engineering Student at University of Canterbury
-🚰 Undergraduate Civil Engineer
-🔬 Research Assistant diving working in public health and transport network modelling
+🎓 Natural Resources/ Civil Engineering Student at University of Canterbury\
+🚰 Undergraduate Civil Engineer\
+🔬 Research Assistant working in public health and transport network modelling
 
 ## My tech toolbox 🛠️
 * **Languages:** Python 🐍, R 📊, C++ ⚡
@@ -19,6 +19,6 @@ Probably not a lot (it's mostly hidden), but sometimes:
 * 🔍 Data visualisation experiments
 
 ## Let's connect!
-📧 [Email me]
-🔗 [LinkedIn](https://www.linkedin.com/in/isaac-waterman)
+📧 Email me\
+🔗 [LinkedIn](https://www.linkedin.com/in/isaac-waterman) \
 📍 Somewhere between Wellington 🥝, Christchurch 🥝, or Sydney 🦘
