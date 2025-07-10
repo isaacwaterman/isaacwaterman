@@ -9,7 +9,6 @@
 * **Languages:** Python 🐍, R 📊, C++ ⚡
 * **Spatial wizardry:** ArcGIS Pro, QGIS, GIS analysis
 * **Data wrangling:** Statistical & stochastic modelling
-* **Excel ninja:** Because sometimes you gotta work with what you've got 📈
 
 ## What you'll find here
 Probably not a lot (it's mostly hidden), but sometimes:
